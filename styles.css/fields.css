@@ -1,0 +1,14 @@
+input, textarea, select {
+    appearance: none;
+    width: 100%;
+
+    background-color: var(--input-base);
+
+    border-radius: 8px;
+    border: 1px solid var(--input-stroke);
+
+    padding: 13px 16px;
+
+    margin-top: 12px;
+}
+
